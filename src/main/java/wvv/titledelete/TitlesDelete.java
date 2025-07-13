@@ -1,4 +1,4 @@
-package wvv.autotrencher;
+package wvv.titledelete;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiIngame;
