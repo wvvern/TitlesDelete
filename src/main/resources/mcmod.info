@@ -1,0 +1,16 @@
+[
+{
+  "modid": "titlesdelete",
+  "name": "Titles Delete",
+  "description": "A client-side mod that hides all in-game titles and subtitles sent by servers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dark"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
